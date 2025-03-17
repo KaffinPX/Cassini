@@ -22,6 +22,6 @@
 ```bash
   cargo run -- --help
 ```
-## Phoebe Instances
+## Instances
 ### Testnet  
 [45.149.206.49](http://45.149.206.49): Maintained by @KaffinPX.
